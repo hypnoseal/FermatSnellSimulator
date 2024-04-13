@@ -1,0 +1,21 @@
+plane:
+  size: 1000
+  interface_y: 500
+
+points:
+  start_x: 50
+  start_y: 50
+  end_x: 750
+  end_y: 750
+
+speed_of_light: 1
+
+material:
+  velocity_1: 2.97 # mm/s
+  velocity_2: 4.89 # mm/s
+
+animation:
+  frames: 200
+  image: "ant.png"
+  image_zoom: 0.33
+  title: "Animation of Ant Path Following Fermat's Principle & Snell's Law"
